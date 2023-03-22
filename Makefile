@@ -1,4 +1,4 @@
-BIN=bin/signin
+BIN=bin/ratelimiter
 
 test:
 	@go test -v ./...
